@@ -1,0 +1,28 @@
+body {
+  background-image:url("http://www.pixeden.com/media/k2/galleries/165/003-subtle-light-pattern-background-texture-vol5.jpg");
+  background-size:cover;
+  background-attachment:fixed;
+  
+}
+li {
+  margin: 10px;
+  font-family: 'Raleway', sans-serif;
+}
+img {
+  border-color:#394344;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 10px;
+  margin-top:30px; 
+  margin-bottom:30px;
+}
+#title, #name {
+  font-family: 'Acme', sans-serif;
+}
+.space-links {
+  margin-right:20px;
+  font-size:25px;
+  font-family: 'Raleway', sans-serif;
+  min-width:500px; 
+  max-width:800px;
+}
