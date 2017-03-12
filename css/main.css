@@ -133,6 +133,10 @@ PAGE PORTFOLIO
   color: #555b66;
 }
 
+#gallery li:hover {
+    -webkit-transform: scale(1.2);
+}
+
 
 /******************
 PAGE: ABOUT
