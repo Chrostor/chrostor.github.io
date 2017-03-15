@@ -124,6 +124,10 @@ PAGE PORTFOLIO
   margin: 2.5%;
   background-color: #f5f5f5;
   color: #bdc3c7;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 #gallery li a p {
@@ -134,9 +138,10 @@ PAGE PORTFOLIO
 }
 
 #gallery li:hover {
-    -webkit-transform: scale(1.2);
-    -ms-transform: scale(1.2);
-    transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -o-transition: scale(1.2);
+  transform: scale(1.2);
 }
 
 
